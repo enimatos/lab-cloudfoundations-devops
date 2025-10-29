@@ -2587,10 +2587,6 @@ textarea.form-control-lg {
   border-bottom-left-radius: 0;
 }
 
-.nav-nova a{
-  color: white;
-  text-decoration: none;
-}
 .valid-feedback {
   display: none;
   width: 100%;
@@ -10879,8 +10875,8 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
-  text-decoration: none;
 }
+
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
