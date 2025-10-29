@@ -2,6 +2,8 @@
 
 # [Aws Cloud Foundations]
 
+<img width="1796" height="775" alt="image" src="https://github.com/user-attachments/assets/e54c9ad0-0eba-4855-b2e6-9a9eb5f05a5a" />
+
 Este repositório contém um website estático em HTML e demonstra como configurar uma pipeline de CI/CD utilizando GitHub Actions para fazer o deploy automático para um bucket S3 na AWS.
 
 ## Estrutura do Repositório
@@ -70,7 +72,7 @@ Este repositório contém um website estático em HTML e demonstra como configur
                 AWS_REGION: ${{ secrets.AWS_REGION }}
                 SOURCE_DIR: "website/"
 
-![alt text](image.png)
+
 
 - **Configurar o Bucket S3:**  
   Verifiquem as configurações do bucket S3 para hospedagem de site estático e a política de acesso público.
@@ -90,9 +92,11 @@ Este repositório contém um website estático em HTML e demonstra como configur
          }
 
   Habilitar em propriedades para ser um repositorio de site estático:
-  ![alt text](image-1.png)
+ <img width="1622" height="471" alt="image" src="https://github.com/user-attachments/assets/4377b99d-e4a3-47d5-9291-3e079bea5dc4" />
+
 
 - **Ajustar o Repositório:**  
   Caso necessário, modifiquem a estrutura ou os arquivos do website na pasta `website` e observem como o deploy é refletido automaticamente após cada push para o branch `main`.
 
 Este repositório é um exemplo prático de como integrar GitHub e AWS para automatizar o deploy de um site estático. Aproveitem para explorar e ajustar conforme as necessidades dos seus projetos!
+
