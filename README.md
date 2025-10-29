@@ -6,6 +6,7 @@ Este repositório contém um website estático em HTML e demonstra como configur
 
 ## Estrutura do Repositório
 
+- **.github/workflows**: Contém os arquivos de workflow do GitHub Actions (ex.: `main.yml`) que orquestram o processo de deploy.
 - **website**: Pasta que contém os arquivos do site (HTML, CSS, JS e imagens).
 - **.gitignore**: Define os arquivos e pastas que não serão versionados.
 - **README.md**: Este arquivo, com informações importantes sobre o projeto e o fluxo de deploy.
