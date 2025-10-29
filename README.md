@@ -11,7 +11,7 @@ Este repositório contém um website estático em HTML e demonstra como configur
 - **.gitignore**: Define os arquivos e pastas que não serão versionados.
 - **README.md**: Este arquivo, com informações importantes sobre o projeto e o fluxo de deploy.
 
-## Pontos Importantes
+## Pontos Importantes 
 
 1. **Deploy Automático com GitHub Actions**
 
